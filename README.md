@@ -1,6 +1,6 @@
-### Hi there, I'm Samuel 👋
+### Hi there, I'm Victor Geruso 👋 welcome to my profile!
 
-## I'm a CS Student, Developer and a Geek!
+## I'm a Student, Developer and a Geek!
 
 - CTO Kiitos Corp.
 - Javascript back-end developer
