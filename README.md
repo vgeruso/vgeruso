@@ -4,7 +4,7 @@
 
 - CTO Kiitos Corp.
 - Javascript back-end developer
-- Software engineering student, period 7
+- Software engineering student, period 8
 - 🥇Objective: learn TypeScript, learn Deno!
 - ⚡ Curiosity: I love games, FPS, RPG, among others, I love to read, Fan of the Lord of the Rings "My prescious!"
 
