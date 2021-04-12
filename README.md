@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and a Geek!
 
-- CTO Kiitos Corp.
+- Developer, Topos Informatica
 - Javascript back-end developer
 - Software engineering student, period 8
 - 🥇Objective: learn TypeScript, learn Deno!
