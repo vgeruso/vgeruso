@@ -37,11 +37,12 @@
 <br />
 <br />
 
-<h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=vgeruso&amp;show_icons=true&theme=dark" alt="GitHub Stats"></p>
-
-<h1>GitHub Languages</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&hide=html&theme=dark" /></p>
+<h1>My GitHub</h1>
+<div>
+  <a href="https://github.com/vgeruso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vgeruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 [instagram]: https://www.instagram.com/victorgeruso/
 [linkedin]: https://www.linkedin.com/in/victor-geruso-gomes-654a8111a/
