@@ -49,6 +49,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vgeruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+<h1>Daily Dev</h1>
+  
+<a href="https://app.daily.dev/vgeruso"><img src="https://api.daily.dev/devcards/7b6458bde8264469ab644839f8f3df65.png?r=ce8" width="400" alt="Victor Geruso Gomes's Dev Card"/></a>
 
 [twitter]: https://twitter.com/vgeruso
 [instagram]: https://www.instagram.com/victorgeruso/
