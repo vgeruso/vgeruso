@@ -52,7 +52,7 @@
   
 <h1>Daily Dev</h1>
 
-<a href="https://app.daily.dev/vgeruso"><img src="https://api.daily.dev/devcards/7b6458bde8264469ab644839f8f3df65.png?r=ce8" width="400" alt="Victor Geruso Gomes's Dev Card"/></a>
+<a href="https://app.daily.dev/vgeruso"><img src="https://api.daily.dev/devcards/7b6458bde8264469ab644839f8f3df65.png?r=h3y" width="400" alt="Victor Geruso Gomes's Dev Card"/></a>
 
 [twitter]: https://twitter.com/vgeruso
 [instagram]: https://www.instagram.com/victorgeruso/
