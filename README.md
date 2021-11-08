@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor Geruso 👋 welcome to my profile!
 
-## I'm a Student, Developer and a Geek!
+## I'm a Student, Developer and a Geek! [![wakatime](https://wakatime.com/badge/user/ea23585a-b22a-499a-b003-910668d5c474.svg)](https://wakatime.com/@ea23585a-b22a-499a-b003-910668d5c474)
 
 - Developer, Topos Informatica
 - Javascript back-end developer
