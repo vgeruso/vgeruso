@@ -10,7 +10,7 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://www.guapo.go.gov.br/res/img/site/ig.png" />][instagram]
 
 <br />
 
