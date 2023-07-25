@@ -31,11 +31,9 @@
 <img style="margin-top: 10px;" align="left" alt="postgresql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img style="margin-top: 10px;" align="left" alt="mysql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 <img style="margin-top: 10px;" align="left" alt="mongodb" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="Golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img style="margin-top: 10px;" align="left" alt="bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img style="margin-top: 10px;" align="left" alt="docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img style="margin-top: 10px;" align="left" alt="linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img style="margin-top: 10px;" align="left" alt="raspberry" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img style="margin-top: 10px;" align="left" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 
 <br />
