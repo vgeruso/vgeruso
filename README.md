@@ -41,8 +41,8 @@
 <h1>My GitHub</h1>
 <div>
   <a href="https://github.com/vgeruso">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=vgeruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vgeruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 [![Geruso's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vgeruso&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
