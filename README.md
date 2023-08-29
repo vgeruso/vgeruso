@@ -38,16 +38,18 @@
 <br />
 <br />
 
-<!--<h1>My GitHub</h1>
+<h1>My GitHub</h1>
 <div>
   <a href="https://github.com/vgeruso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vgeruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&langs_count=7&theme=dark"/>
-</div>-->
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=vgeruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
+[![Geruso's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vgeruso&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-<h1>Daily Dev</h1>
+<!--<h1>Daily Dev</h1>
 
-<a href="https://app.daily.dev/vgeruso"><img src="https://api.daily.dev/devcards/7b6458bde8264469ab644839f8f3df65.png?r=h3y" width="400" alt="Victor Geruso Gomes's Dev Card"/></a>
+<a href="https://app.daily.dev/vgeruso"><img src="https://api.daily.dev/devcards/7b6458bde8264469ab644839f8f3df65.png?r=h3y" width="400" alt="Victor Geruso Gomes's Dev Card"/></a>-->
 
 [twitter]: https://twitter.com/vgeruso
 [instagram]: https://www.instagram.com/victorgeruso/
