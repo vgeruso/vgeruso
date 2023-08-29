@@ -1,6 +1,6 @@
-### Hi there, I'm Victor Geruso 👋 welcome to my profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=219037&width=435&lines=Hello+There%2C+I'm+Victor+Geruso+%F0%9F%91%8B;welcome+to+my+profile!)](https://git.io/typing-svg)
 
-## I'm a Backend Developer and a Geek! [![wakatime](https://wakatime.com/badge/user/ea23585a-b22a-499a-b003-910668d5c474.svg)](https://wakatime.com/@ea23585a-b22a-499a-b003-910668d5c474)
+### I'm a Backend Developer and a Geek! [![wakatime](https://wakatime.com/badge/user/ea23585a-b22a-499a-b003-910668d5c474.svg)](https://wakatime.com/@ea23585a-b22a-499a-b003-910668d5c474)
 
 - Developer, Topos Informatica
 - TypeScript back-end developer
