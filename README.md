@@ -6,12 +6,6 @@
 - TypeScript back-end developer
 - ⚡ Curiosity: I love games, FPS, RPG, among others, I love to read, Fan of the Lord of the Rings "My prescious!"
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://www.guapo.go.gov.br/res/img/site/ig.png" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -47,7 +41,3 @@
 <!--<h1>Daily Dev</h1>
 
 <a href="https://app.daily.dev/vgeruso"><img src="https://api.daily.dev/devcards/7b6458bde8264469ab644839f8f3df65.png?r=h3y" width="400" alt="Victor Geruso Gomes's Dev Card"/></a>-->
-
-[twitter]: https://twitter.com/vgeruso
-[instagram]: https://www.instagram.com/victorgeruso/
-[linkedin]: https://www.linkedin.com/in/victor-geruso-gomes-654a8111a/
