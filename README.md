@@ -10,26 +10,9 @@
 
 ### Languages and Tools:
 
-<img style="margin-top: 10px;" align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="react" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img style="margin-top: 10px;" align="left" alt="angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="Nest.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="sequelize" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-<img style="margin-top: 10px;" align="left" alt="prisma" width="60px" src="https://prismalens.vercel.app/header/logo-dark.svg" />
-<img style="margin-top: 10px;" align="left" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="postgresql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="mysql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="mongodb" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img style="margin-top: 10px;" align="left" alt="docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img style="margin-top: 10px;" align="left" alt="linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+![Static Badge](https://img.shields.io/badge/typescript-blue?logo=typescript&labelColor=black) ![Static Badge](https://img.shields.io/badge/javascript-F0DB4F?logo=javascript&labelColor=black) ![Static Badge](https://img.shields.io/badge/react-61DBFB?logo=react&labelColor=black) ![Static Badge](https://img.shields.io/badge/angular-B52E31?logo=angular&labelColor=black) ![Static Badge](https://img.shields.io/badge/node-3C873A?logo=node.js&labelColor=black) ![Static Badge](https://img.shields.io/badge/nest-B52E31?logo=nestjs&labelColor=black) ![Static Badge](https://img.shields.io/badge/sequelize-blue?logo=sequelize&labelColor=black) ![Static Badge](https://img.shields.io/badge/prisma-gray?logo=prisma&labelColor=black) ![Static Badge](https://img.shields.io/badge/jest-darkred?logo=jest&labelColor=black) ![Static Badge](https://img.shields.io/badge/postgresql-darkblue?logo=postgresql&labelColor=black) ![Static Badge](https://img.shields.io/badge/mysql-lightblue?logo=mysql&labelColor=black) ![Static Badge](https://img.shields.io/badge/mongodb-3C873A?logo=mongodb&labelColor=black) ![Static Badge](https://img.shields.io/badge/docker-blue?logo=docker&labelColor=black) ![Static Badge](https://img.shields.io/badge/linux-yellow?logo=linux&logoColor=white&labelColor=black&color=black)
 
-<br />
-<br />
-<br />
-
-<h1>My GitHub</h1>
+# My GitHub
 <div>
   <a href="https://github.com/vgeruso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&langs_count=7&theme=dark"/>
