@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=61a355&section=header&textBg=false" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=219037&width=435&lines=Hello+There%2C+I'm+Victor+Geruso+%F0%9F%91%8B;welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### I'm a Backend Developer and a Geek!
@@ -14,9 +16,7 @@
 
 # My GitHub
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgeruso&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vgeruso&theme=github_dark"/>
 </div>
 
-----
-
-[![Geruso's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vgeruso&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=61a355&section=footer&textBg=false" />
