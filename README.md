@@ -4,7 +4,7 @@
 
 ### I'm a Software Egineer and a Geek!
 
-- Software Engineer at Asksuite
+- Software Engineer and CTO at ["Ok Snack"](https://ok-snack.com/)
 - Host at ["Deploy de sexta podcast"](https://www.deploydesextapodcast.com.br/)
 - TypeScript back-end developer
 - ⚡ Curiosity: I love games, especially RPGs, I love to read, Fan of the Lord of the Rings "My prescious!"
